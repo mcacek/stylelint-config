@@ -1,3 +1,6 @@
 module.exports = {
-  "block-no-empty": 2
+  "rules": {
+    "block-no-empty": 2,
+    "color-hex-case": [2, "lower"]
+  }
 }
